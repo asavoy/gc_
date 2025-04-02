@@ -1,5 +1,3 @@
-#!/bin/bash
-
 gc_() {
   local model=gpt-4o
 
